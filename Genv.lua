@@ -1,0 +1,1 @@
+-- Global environment for real-time configuration.
